@@ -6,6 +6,18 @@ st.multiselect(
      ['Verde', 'Amarelo', 'Vermelho', 'Azul'],
      ['Amarelo', 'Vermelho'])
 
+st.color_picker("Pick A Color", "#00f900")
+st.feedback("stars")
+
+
+
+
+
+
+
+
+
+
 st.toggle("Toggle")
 st.text_area("Enter text")
 st.text_input("")
